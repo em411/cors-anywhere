@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Rob--W/cors-anywhere.svg?branch=master)](https://travis-ci.com/Rob--W/cors-anywhere)
+[![Create and publish a Docker image](https://github.com/em411/cors-anywhere/actions/workflows/publish.yaml/badge.svg?branch=release)](https://github.com/em411/cors-anywhere/actions/workflows/publish.yaml)
 [![Coverage Status](https://coveralls.io/repos/github/Rob--W/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/Rob--W/cors-anywhere?branch=master)
 
 **CORS Anywhere** is a NodeJS proxy which adds CORS headers to the proxied request.
