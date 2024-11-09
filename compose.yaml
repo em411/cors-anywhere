@@ -1,0 +1,9 @@
+services:
+  cors-anywhere:
+    build: .
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8080
+      - CORSANYWHERE_BLACKLIST=bad-site.com,malicious.com
+      - CORSANYWHERE_WHITELIST=trusted-site.com
+      - CORSANYWHERE_RATELIMIT=100
